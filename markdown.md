@@ -11,7 +11,9 @@
 ## コード
 
 ```javascript:JavaScriptのコード
+
 document.write('練習');
+
 ```
 
 
